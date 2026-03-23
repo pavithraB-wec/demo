@@ -1,14 +1,4 @@
 
-[![GitHub Pages](https://img.shields.io/badge/Live%20Demo-GitHub%20Pages-00B4D8?style=for-the-badge&logo=github&logoColor=white)](https://pavithraB-wec.github.io/html-demo-project)
-[![Contributors](https://img.shields.io/badge/Contributors-2-065A82?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pavithraB-wec/html-demo-project/graphs/contributors)
-[![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/pavithraB-wec/html-demo-project)
-[![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com)
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
-[![Stars](https://img.shields.io/github/stars/pavithraB-wec/html-demo-project?style=for-the-badge&color=f1c40f)](https://github.com/pavithraB-wec/html-demo-project/stargazers)
-
-
-
----
 
 ## 📌 About This Project
 
@@ -33,78 +23,7 @@ It was created as part of a **seminar demonstration** to help junior students un
 
 ---
 
-## 🌐 Live Demo
-
-
-### 🔗 [https://pavithraB-wec.github.io/html-demo-project](https://pavithraB-wec.github.io/html-demo-project)
-
-*Deployed via GitHub Pages — updates automatically on every push to `main`*
-
-
----
-
-## 📂 Project Structure
-```
-html-demo-project/
-│
-├── 📄  index.html       ← Home page  (by Contributor 1 — Pavi)
-├── 📄  about.html       ← About page (by Contributor 2 — Ranjana Devi)
-└── 📝  README.md        ← Project documentation
-```
-
----
-
-## 👩‍💻 Contributors
-
-
- **B. Pavithra** 
-   . Contributor 1 
-  . Uploaded `index.html` 
- [![GitHub](https://img.shields.io/badge/@pavithraB--wec-181717?style=flat-square&logo=github)](https://github.com/pavithraB-wec)
- 
- **K. Ranjana Devi** 
- .  Contributor 2  
- . Uploaded `about.html`
- [![GitHub](https://img.shields.io/badge/@ranjanadevi1802-181717?style=flat-square&logo=github)](https://github.com/ranjanadevi1802) 
-
-
-
----
-
-## 🛠️ Tools & Technologies
-
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white)
-
-
-
----
-
-## 🚀 Complete Step-by-Step Procedure
-
-👤 PART 1 — Contributor 1: Create & Push (Pavi)
-
-
-
-**Step 1 — Create Repository on GitHub**
-```
-1. Go to github.com → Click ➕ → New Repository
-2. Name:        html-demo-project
-3. Visibility:  Public
-4. ⚠️ Do NOT check "Add a README file"
-5. Click: Create Repository
-```
-
-**Step 2 — Create Project Folder Locally**
-```
-Create folder:  html-demo-project/
-Add file:       index.html  (with your HTML content)
-```
-
+#
 **Step 3 — Open in VS Code**
 ```
 File → Open Folder → Select html-demo-project
