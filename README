@@ -1,47 +1,27 @@
-## 📸 Project Screenshots
+# 🚀 Demo Project
 
-### 👩‍💻 Contributor 1 Page
-![Contributor 1](image/contributor1.png)
-
----
-
-### 👨‍💻 Contributor 2 Page
-![Contributor 2](image/contributor2.png)
-
-
-## 📌 About This Project
-
-> **"Learn GitHub Today, Build Your Future Tomorrow!"**
-
-This project demonstrates how **two contributors** can collaborate on the same GitHub repository using **VS Code** and **Git**, then deploy the final project live using **GitHub Pages** — completely free.
-
-It was created as part of a **seminar demonstration** to help junior students understand real-world GitHub collaboration workflows from scratch.
+A simple and clean demo project built to understand the basics of web development using **HTML, CSS, and JavaScript / React**.
 
 ---
 
-## ✨ What This Project Covers
+## 📌 Overview
 
-| # | Topic | Description |
-|---|-------|-------------|
-| 1 | 🔧 Git Setup | Initialize a repo and connect it to GitHub |
-| 2 | 📤 Push & Pull | Upload and sync code between contributors |
-| 3 | 🤝 Collaborators | Add a second contributor with write access |
-| 4 | 🌿 Multi-Contributor | Two people uploading different files to one repo |
-| 5 | 📄 README | Write professional project documentation |
-| 6 | 🌐 Deployment | Host the project live using GitHub Pages |
+This project is created as a beginner-friendly demo to:
+
+- Understand project structure
+- Learn basic frontend development
+- Practice Git & GitHub workflow
+- Build and run a simple web application
 
 ---
 
-#
-**Step 3 — Open in VS Code**
-```
-File → Open Folder → Select html-demo-project
-```
+## 🛠️ Tech Stack
 
-**Step 4 — Initialize Git & Push**
-```bash
-git init
-git add .
-git commit -m "Initial commit: add index.html"
-git remote add origin https://github.com/pavithraB-wec/html-demo-project.git
-git branch -M main
+- 🌐 HTML5
+- 🎨 CSS3
+- ⚡ JavaScript  
+- ⚛️ React (if applicable)
+
+---
+
+## 📂 Project Structure
